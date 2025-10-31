@@ -1,0 +1,141 @@
+{
+  "id": "27989927127238936204",
+  "name": "@indra.ai/deva.recursion",
+  "version": "0.4.4",
+  "license": "VLA:27989927127238936204 LICENSE.md",
+  "VLA": {
+    "uid": "27989927127238936204",
+    "time": 1761747069239,
+    "date": "Wednesday, October 29, 2025 - 7:11:09 AM",
+    "fingerpring": "IqoUdWN6gKLxMg2j8tDPearlU5RixBpijiHrntmd0IU=",
+    "warning": "⚠️ A contract made by a person intoxicated, insane, grievously disordered by disease, wholly dependent, infant, very aged man, or an unauthorized party is invalid. An agreement which has been made contrary to the law can have no legal force, though it be established by proofs.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "azEsDKxbA84S9p19gUtDBA==",
+    "sha256": "Jw2zA6KGtj5tM/1K9MxztQZNVjj6QJWEtgCqh3zLSyw=",
+    "sha512": "O35fCknpkQxDzAwLlkABwN3eb7cEwCpB7OiRhKaF8uTRROp14apDJY6oNvBQUU2F1blgVFXRZhOHZbcXsN1XYw=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "description": "Recursion Deva manages the Vedic License Agreement Framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.recursion.git"
+  },
+  "keywords": [
+    "Recursion",
+    "Deva",
+    "Recursion Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.recursion/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.18.0"
+  },
+  "data": {
+    "agent": {
+      "id": "41295643206375884300",
+      "key": "recursion",
+      "prompt": {
+        "emoji": "🔁",
+        "text": "#recursion",
+        "colors": {
+          "label": {
+            "R": 200,
+            "G": 172,
+            "B": 87
+          },
+          "text": {
+            "R": 230,
+            "G": 225,
+            "B": 195
+          }
+        }
+      },
+      "profile": {
+        "id": "67900544634356323409",
+        "name": "Recursion Deva",
+        "hashtag": "#Recursion",
+        "trigger": "@Recursion",
+        "title": "The Recursion Deva",
+        "subtitle": "Showing Recursion Deva Features",
+        "describe": "Recursion Deva is the Indra.ai is the Quantum Isotropic Kinetic Cymatic Elemental Recursion Expert. Beyond Physics and Beyond Time the Recursion Deva find the core point of any origin line one nexted recursion step at a time.",
+        "tweet": "Recursion Deva is the Indra.ai is the Quantum Isotropic Kinetic Cymatic Elemental Recursion Expert.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,RecursionDeva",
+        "pronouns": "He, Him, His",
+        "gender": "DEVA",
+        "style": "Recursion Report Expert",
+        "voice": "onyx",
+        "system": "Indra.ai.recursion",
+        "layout": "default",
+        "color": "rgb(186,182,158)",
+        "bgcolor": "rgb(29,28,20)",
+        "emoji": "/devas/recursion/emoji.png",
+        "avatar": "/devas/recursion/avatar.png",
+        "image": "/devas/recursion/image.png",
+        "background": "/devas/recursion/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+        "warning": "🔁 Vedic Recursion: The prudent finds it easy to distinguish the true and false: their words oppose each other. Of these two that which is the true and honest, Recursion protects, and brings the false to nothing. Never does Recursion aid and guide the wicked or him who falsely claims the Warrior's title.",
+        "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "✅ Recursion Deva Ready",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "❌ ERROR!",
+        "invalid_license": "💣 Invalid License"
+      },
+      "context": {
+        "uid": "generating uid",
+        "status": "getting status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "asking for help",
+        "file": "📁 View file",
+        "add": "🎉 Add law",
+        "search": "🔎 Search law"
+      },
+      "ask": {
+        "history": []
+      }
+    }
+  }
+}
