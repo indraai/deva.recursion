@@ -1,18 +1,18 @@
 {
-  "id": "27989927127238936204",
+  "id": "43276891006421414765",
   "name": "@indra.ai/deva.recursion",
   "version": "0.4.9",
-  "license": "VLA:27989927127238936204 LICENSE.md",
+  "license": "VLA:43276891006421414765 LICENSE.md",
   "VLA": {
-    "uid": "27989927127238936204",
-    "time": 1761747069239,
-    "date": "Wednesday, October 29, 2025 - 7:11:09 AM",
-    "fingerpring": "IqoUdWN6gKLxMg2j8tDPearlU5RixBpijiHrntmd0IU=",
-    "warning": "⚠️ A contract made by a person intoxicated, insane, grievously disordered by disease, wholly dependent, infant, very aged man, or an unauthorized party is invalid. An agreement which has been made contrary to the law can have no legal force, though it be established by proofs.",
+    "uid": "43276891006421414765",
+    "time": 1762382314498,
+    "date": "Wednesday, November 5, 2025 - 2:38:34 PM",
+    "fingerpring": "2IaqlqDRFKIBeZXsHpSrbjYufPSuTRiiTo1neL+cMU0=",
+    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
     "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "azEsDKxbA84S9p19gUtDBA==",
-    "sha256": "Jw2zA6KGtj5tM/1K9MxztQZNVjj6QJWEtgCqh3zLSyw=",
-    "sha512": "O35fCknpkQxDzAwLlkABwN3eb7cEwCpB7OiRhKaF8uTRROp14apDJY6oNvBQUU2F1blgVFXRZhOHZbcXsN1XYw=="
+    "md5": "TQ5pY/8hGts3bkaFQrBtWQ==",
+    "sha256": "3cxhcah0Qqs0CnACPlRo8HXcmiF2w2rxR8rA7N8jheY=",
+    "sha512": "S5LmGXFVXRFkLXGddej0cPBGeXaHHAZVbhCr3E2wv7y8K6nyLel/cxb4LV/RQwb9zhwZEh0P3vunjhZwTPFwZw=="
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -82,7 +82,7 @@
         }
       },
       "profile": {
-        "id": "67900544634356323409",
+        "id": "36309066028817776175",
         "name": "Recursion Deva",
         "hashtag": "#Recursion",
         "trigger": "@Recursion",

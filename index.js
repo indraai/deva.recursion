@@ -1,9 +1,9 @@
 "use strict";
 // Copyright ©2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
-// Distributed under VLA:49217018009233197704 LICENSE.md
+// Distributed under VLA:43276891006421414765 LICENSE.md
 
-// Police Deva
+// Recursion Deva
 import Deva from '@indra.ai/deva';
 
 import pkg from './package.json' with {type:'json'};
@@ -29,7 +29,7 @@ const info = {
   copyright: pkg.copyright,
 };
 
-const POLICE = new Deva({
+const RECURSION = new Deva({
   info,
   agent,
   vars,
@@ -61,4 +61,4 @@ const POLICE = new Deva({
     console.log(err);
   },
 });
-export default POLICE;
+export default RECURSION;
