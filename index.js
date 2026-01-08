@@ -30,7 +30,7 @@ const info = {
   copyright: pkg.copyright,
 };
 
-const RECURSION = new Deva({
+const RecursionDeva = new Deva({
   info,
   agent,
   vars,
@@ -48,18 +48,19 @@ const RECURSION = new Deva({
     const agent_license = this.info().VLA; // get agent license
     const license_check = this.license_check(personal, agent_license); // check license
     // return this.start if license_check passes otherwise stop.
+    this.action('return', `onInit:${data.id.uid}`);
     return license_check ? this.start(data, resolve) : this.stop(data, resolve);
-  }, 
-  async onReady(data, resolve) {
-    const {concerns, global} = this.license(); // get the license config
+  },
+  onReady(data, resolve) {
+    console.log('\nrecursion on ready\n');
     const {VLA} = this.info();
-
     this.prompt(`${this.vars.messages.ready} > VLA:${VLA.uid}`);
-    return resolve(data); // resolve data.
+    this.action('resolve', `onReady:${data.id.uid}`);
+    return resolve(data);
   },
   onError(err, data) {
     this.prompt(this.vars.messages.error);
     console.log(err);
   },
 });
-export default RECURSION;
+export default RecursionDeva;
