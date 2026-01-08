@@ -52,7 +52,6 @@ const RecursionDeva = new Deva({
     return license_check ? this.start(data, resolve) : this.stop(data, resolve);
   },
   onReady(data, resolve) {
-    console.log('\nrecursion on ready\n');
     const {VLA} = this.info();
     this.prompt(`${this.vars.messages.ready} > VLA:${VLA.uid}`);
     this.action('resolve', `onReady:${data.id.uid}`);
