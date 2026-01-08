@@ -1,18 +1,16 @@
 {
-  "id": "43276891006421414765",
+  "id": "60972819392034752161",
   "name": "@indra.ai/deva.recursion",
   "version": "0.10.0",
-  "license": "VLA:43276891006421414765 LICENSE.md",
+  "license": "VLA:60972819392034752161 LICENSE.md",
   "VLA": {
-    "uid": "43276891006421414765",
-    "time": 1762382314498,
-    "date": "Wednesday, November 5, 2025 - 2:38:34 PM",
-    "fingerpring": "2IaqlqDRFKIBeZXsHpSrbjYufPSuTRiiTo1neL+cMU0=",
-    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
-    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "TQ5pY/8hGts3bkaFQrBtWQ==",
-    "sha256": "3cxhcah0Qqs0CnACPlRo8HXcmiF2w2rxR8rA7N8jheY=",
-    "sha512": "S5LmGXFVXRFkLXGddej0cPBGeXaHHAZVbhCr3E2wv7y8K6nyLel/cxb4LV/RQwb9zhwZEh0P3vunjhZwTPFwZw=="
+    "uid": "60972819392034752161",
+    "time": 1767845029137,
+    "date": "Wednesday, January 7, 2026 - 8:03:49 PM",
+    "warning": "🪪 #LicenseDeva warns #UnlawfulUse or #Duplication constitutes #VedicSahasa a #Crime of the #HighestDegree. A #Fine amounting to 1000 #Panas (1 pana = 3.5 grams of gold) for each #Instance has been #Ordained the #Punishment for #Sahasa of the #HighestDegree. #Quinn #QuinnMichaels #IndraAI #DevaWorld #LicenseDeva #VedicLicenseAgreement",
+    "license": "44486733861528360966",
+    "fingerprint": "4h6Mn8HwWHxmEv745mpuX+X1IujziuwtM+8shWilytA=",
+    "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved."
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -30,7 +28,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
   "description": "Recursion Deva manages the Vedic License Agreement Framework",
   "main": "index.js",
   "type": "module",
@@ -59,7 +57,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.26.0"
+    "@indra.ai/deva": "^1.32.0"
   },
   "data": {
     "agent": {
@@ -90,7 +88,7 @@
         "subtitle": "Showing Recursion Deva Features",
         "describe": "Recursion Deva is the Indra.ai is the Quantum Isotropic Kinetic Cymatic Elemental Recursion Expert. Beyond Physics and Beyond Time the Recursion Deva find the core point of any origin line one nexted recursion step at a time.",
         "tweet": "Recursion Deva is the Indra.ai is the Quantum Isotropic Kinetic Cymatic Elemental Recursion Expert.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,RecursionDeva",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #RecursionDeva",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Recursion Report Expert",
@@ -105,9 +103,10 @@
         "background": "/devas/recursion/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-        "warning": "🔁 The prudent finds it easy to distinguish the true and false. False words oppose each other. Of these two that which is the True and Honest, Recursion Deva Protects, and brings the False to Nothing. Never does Recursion Deva aid and guide the wicked or him who profits from Falsehoods.",
-        "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
+        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares the prudent finds it easy to distinguish the true and false. False thoughts, words, and deeds oppose each other. Recursion Deva Protects that which is the #True and #Honest while bringing the #False to #Nothing. Never does {{profile.hashtag}} #Aid and #Guide the #Wicked or those who #ProfitFromFalsehoods. {{profile.hashtags}}",
+        "created": "Monday, Septemper 8, 2025 - 1:25:01 PM",
+        "updated": "Wednesday, January 7, 2026 - 8:03:49 PM"
       }
     },
     "vars": {
@@ -115,7 +114,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "✅ Recursion Deva Ready",
+        "ready": "🔁 Recursion Deva Ready",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
